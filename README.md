@@ -18,7 +18,7 @@
 Apex Girls Gift Code Auto-Redeemer
 This is a home-made automatic gift code input tool for Apex Girls (熾熱戰姬). It was created to free your hands and save you from the suffering of tendonitis (?). Please do not use this for commercial purposes.
 
-Download Gift Code Auto-Redeemer
+[Download Gift Code Auto-Redeemer](https://github.com/qazcc8-stack/Apex-Girl-Auto-Redeem-Gift-Code-Tool/releases/tag/v1.0)
 
 Instructions
 Important: Do not move the Apex Girls game window during the process to avoid errors.
