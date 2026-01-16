@@ -1,5 +1,7 @@
 這是一個自製的熾熱戰姬禮包碼自動輸入器，為了方便解放雙手免受腱鞘炎之苦(?)而做的，請勿用於商業用途
 
+[禮包碼自動輸入器下載](https://github.com/qazcc8-stack/Apex-Girl-Auto-Redeem-Gift-Code-Tool/releases/tag/v1.0)
+
 以下是使用步驟:
 
 注意:不要移動熾熱戰姬的視窗，避免失敗
